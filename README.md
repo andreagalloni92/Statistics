@@ -1,2 +1,2 @@
-# statistics
+# Statistics
 Notes on Statistics
