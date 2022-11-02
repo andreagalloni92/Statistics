@@ -42,6 +42,4 @@ Data can be very different in its representation and its nature, and because of 
 **Numerical data** has several properties such as an implicit *natural order* and it is possible to define some *mathematical operations* over it. While **Categorical data** it's not granted to hold some implicit natural order and often it's not possible to define mathematical operations over it. ("YOUNG" and "OLD" categorical are ordinal attributes and might have an order but "MALE" and "FEMALE" do not have an implicit order, even though both attributes are categorical and thus are called categorical nominal).
 
 ### Summary Statistics
-Summary statistics apply more to *Quantitative Data* but some can be applied to 
-*Qualitative Data* as well...
-
+Summary statistics apply more to *Quantitative Data* but some can be applied to *Qualitative Data* as well...
